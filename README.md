@@ -16,9 +16,18 @@
 - I wanted to learn about Github readmes, so here's how it goes.
 
 ## What you'll get
-- A Stats Table <img src="/images/Table.png" alt="Mat chala bhai tu net">
-- A Weekly Analysis Graph <img src="/images/Weekly Analysis.png">
-- An Hourly Analysis Graph <img src="/images/Hourly Analysis.png">
+- A Stats Table <img src="/images/Table.png" alt="Yahan ek table aati, but tumhara net slow hai">
+- A Weekly Analysis Graph <img src="/images/Weekly Analysis.png" alt="Yahan ek pyara sa chart aata, but tumhara net slow hai">
+- An Hourly Analysis Graph <img src="/images/Hourly Analysis.png" alt="Yahan ek aur pyara sa chart aata, but tumhara net slow hai">
+
+## Reading the graph
+ Let's understand with the weekly analysis.
+- In the individual graph, farther the graph is from center, more the number of messages sent on that day.
+- For instance, Trap Nation (Green) has sent the max messages on Thursday while Paul Walker (Purple) has barely sent any.
+- Sometimes, the number of participants can go quite high and it can be tough to see individual graphs, so there's another one, collective graph.
+- The collective graph shows the messages sent by all participants on a given day of the week
+
+Similarly for hourly analysis, you can see that the majority of chats have taken place during midnight!
 
 ## Installation
 - Clone the repository using ```git clone https://github.com/pra8eek/Whatsapp-Chat-Analysis```
