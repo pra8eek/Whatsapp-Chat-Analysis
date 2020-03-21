@@ -46,7 +46,8 @@
 - (Optional) Preferrably rename your whatsapp chat to something simple, say chat.txt
 - Replace chat.txt with the name of your input file```python3 WhatsappAnalyzer.py chat.txt``` and that's it. Cheers! :beers:
 
-And here are some other batches for no reason at all :joy: :joy:
+
+*And here are some other batches for no reason at all* :joy: :joy:
 
 [![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
